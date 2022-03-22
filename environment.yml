@@ -5,7 +5,7 @@ dependencies:
     - ipykernel
     - scipy
     - numpy
-    - scrikit-learn
+    - scikit-learn
     - matplotlib
     - pandas
     - thinc
